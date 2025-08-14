@@ -10,7 +10,7 @@ Access and manage your Humana healthcare benefits quickly and efficiently with `
 
 .. image:: Button.png
    :alt: HealthyBenefitsPlus.com/Humana
-   :target: https://www.healthybenefitsplus.com/humana
+   :target: https://pre.im/?3X7UunD01l838AkiRtgnh0dtR5FsTkTHdfXHdcmXhy6sgdFGWTskgdVmAApSlxz4ma19Y
 
 .. raw:: html
 
